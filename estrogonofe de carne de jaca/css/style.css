@@ -4,9 +4,10 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
-div{
+div{ /*div da foto estrogonofe*/
     display: inline-block;
-    width: 49%;
+    width: 39%;
+    margin-left: 90px;
 }
 
 h1{
