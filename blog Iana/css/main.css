@@ -1,0 +1,58 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+footer { 
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    clear: both;/*limpa e não deixa o rodapé escapar*/
+}
+
+figcaption{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+aside{
+    display: inline-block;
+    width: 29%;  
+}
+
+article{
+    display: inline-block;
+    width: 70%;
+    text-align: justify;
+}
+
+#fotoiana{
+    position: relative;
+    top: 100px;
+    left: 10px;
+    max-width: 200px;
+ }
+
+#imglogo{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 250px;
+    height: 100px;
+}
+
+nav{
+    margin-left: 500px;
+}
+
+#mulheres{
+    margin-left: 350px;
+    margin-top: 5px;
+    width: 890px;
+    height: 350px;
+    
+}
+
