@@ -1,1 +1,3 @@
-# exercicio-1-eu-programo
+Atividades do Curso Eu Programo
+
+Programaria  2018
